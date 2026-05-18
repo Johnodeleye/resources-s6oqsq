@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Johnodeleye.github.io/resources-s6oqsq/sitemap.xml
